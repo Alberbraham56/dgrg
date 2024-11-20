@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7hMX/Y9HhICd/N5qVU7+jNVlMf95DHHa6YmVL+j08VyJ5SEWreDCxXdKvCJq5iWaYRr15t+RpSwpy5wKe+nhg==",
+  "success": true,
+  "projectFilePath": "E:\\etapa 1\\SEMESTRE_1\\PIA\\PIA\\PIA.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Invitad0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Invitad0\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Invitad0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Invitad0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

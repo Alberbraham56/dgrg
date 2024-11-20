@@ -1,0 +1,61 @@
+E:\PIA\PIA\bin\Debug\net7.0-windows\PIA.exe
+E:\PIA\PIA\bin\Debug\net7.0-windows\PIA.deps.json
+E:\PIA\PIA\bin\Debug\net7.0-windows\PIA.runtimeconfig.json
+E:\PIA\PIA\bin\Debug\net7.0-windows\PIA.dll
+E:\PIA\PIA\bin\Debug\net7.0-windows\PIA.pdb
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form1.resources
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form2.resources
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.vbproj.GenerateResource.cache
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.GeneratedMSBuildEditorConfig.editorconfig
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.AssemblyInfoInputs.cache
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.AssemblyInfo.vb
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.vbproj.CoreCompileInputs.cache
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.dll
+E:\PIA\PIA\obj\Debug\net7.0-windows\refint\PIA.dll
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.pdb
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.genruntimeconfig.cache
+E:\PIA\PIA\obj\Debug\net7.0-windows\ref\PIA.dll
+D:\PIA\PIA\bin\Debug\net7.0-windows\PIA.exe
+D:\PIA\PIA\bin\Debug\net7.0-windows\PIA.deps.json
+D:\PIA\PIA\bin\Debug\net7.0-windows\PIA.runtimeconfig.json
+D:\PIA\PIA\bin\Debug\net7.0-windows\PIA.dll
+D:\PIA\PIA\bin\Debug\net7.0-windows\PIA.pdb
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form1.resources
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form2.resources
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.vbproj.GenerateResource.cache
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.AssemblyInfoInputs.cache
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.AssemblyInfo.vb
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.vbproj.CoreCompileInputs.cache
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.dll
+D:\PIA\PIA\obj\Debug\net7.0-windows\refint\PIA.dll
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.pdb
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.genruntimeconfig.cache
+D:\PIA\PIA\obj\Debug\net7.0-windows\ref\PIA.dll
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form3.resources
+E:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form4.resources
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form3.resources
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form4.resources
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form5.resources
+D:\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form6.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\bin\Debug\net7.0-windows\PIA.exe
+E:\etapa 1\SEMESTRE_1\PIA\PIA\bin\Debug\net7.0-windows\PIA.deps.json
+E:\etapa 1\SEMESTRE_1\PIA\PIA\bin\Debug\net7.0-windows\PIA.runtimeconfig.json
+E:\etapa 1\SEMESTRE_1\PIA\PIA\bin\Debug\net7.0-windows\PIA.dll
+E:\etapa 1\SEMESTRE_1\PIA\PIA\bin\Debug\net7.0-windows\PIA.pdb
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form1.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form2.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form3.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form4.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form5.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.Form6.resources
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.vbproj.GenerateResource.cache
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.GeneratedMSBuildEditorConfig.editorconfig
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.AssemblyInfoInputs.cache
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.AssemblyInfo.vb
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.vbproj.CoreCompileInputs.cache
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.dll
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\refint\PIA.dll
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.pdb
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\PIA.genruntimeconfig.cache
+E:\etapa 1\SEMESTRE_1\PIA\PIA\obj\Debug\net7.0-windows\ref\PIA.dll
