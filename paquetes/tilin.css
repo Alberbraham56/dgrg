@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+h1 {
+    color: #333;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+}
+a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+.paquete {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 20px;
+}
+.paquete h2 {
+    margin-top: 0;
+}
+.precio {
+    color: #28a745;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.descripcion {
+    margin: 10px 0;
+}
+.servicios {
+    list-style-type: none;
+    padding-left: 20px;
+}
+.servicios li {
+    margin: 5px 0;
+}
+
+#basico {
+    background-image: url(./bronce.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#normal {
+    background-image: url(./plata.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#oro {
+    background-image: url(./oro.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#diamante {
+    background-image: url(./diamante.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#bebebe
+}
+
+#VIP {
+    background-image: url(./vip.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #bebebe;
+}

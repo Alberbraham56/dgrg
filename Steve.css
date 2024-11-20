@@ -1,0 +1,119 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+    color: rgb(240, 215, 204);
+    text-decoration: none;
+    text-align: center;
+   background-position: center;
+    background-image:url("eo.png");
+    background-color: #000000;
+}
+.titulo {
+    padding: 40px;
+}
+nav ul {
+    width: 80%;
+    margin: 0;
+    border-radius: 10px;
+    background-color: #424242;
+}
+
+nav li {
+    display: inline-flex;
+    margin: 0 5px 0 5px;
+}
+
+nav ul a {
+padding: 10px;
+width: 20vw;
+}
+
+nav ul a:hover {
+background-color: rgba(156, 156, 156, 0.466);
+color: rgba(238, 238, 238, 0.767);
+text-decoration: none;
+}
+
+.contenido {
+display: flex;
+width: 80%;
+margin: auto;
+margin-top: 50px;
+}
+
+.contenido .articulo {
+width: 70%;
+margin: auto;
+}
+
+.contenido .articulo div {
+width: 100%;
+padding: 25px;
+background-color: #2d63a1; 
+border-radius: 25px; 
+margin-bottom: 25px; 
+}
+.contenido .articulo img  {
+width: 300px;
+border-radius: 15px; 
+margin-bottom: 15px; 
+}
+.contenido_secundario {
+width: 36%;
+}
+
+.contenido_secundario p {
+background-color: #0da39c;
+border-radius: 15px;
+padding: 20px;
+height: 700px;
+}
+
+.piedepagina {
+background-color: #e4a47b;
+margin-top: 100px;
+}
+
+.piedepagina p {
+padding: 100px;
+}
+
+.logo-1 {
+position: absolute;
+display: block;
+float: left;
+width: 280px;
+height: 150px; 
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding-top: 60px; /* Espacio para la barra de navegación */
+}
+nav {
+    width: 70%; /* Ancho completo */
+    background-color: #000000; /* Color de fondo */
+    color: rgb(255, 255, 255); /* Color del texto */
+    padding: 10px; /* Espaciado interno */
+    z-index: 1000; /* Para asegurarse de que esté encima de otros elementos */
+}
+nav h1 {
+    margin: 5px; /* Elimina el margen del encabezado */
+}
+
+nav a {
+    color: rgb(226, 205, 205); /* Color del texto del enlace */
+    text-decoration: none; /* Sin subrayado */
+}
+.content {
+    padding: 20px; /* Espaciado interno para el contenido */
+}
+
+.duh {
+    background-color: #000000cb;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 25px;
+}
